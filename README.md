@@ -6,7 +6,6 @@ About Me
 
 
    🎓 Education: Computer Science, University of Sulaimani
-   
    📧 Email: yawarosmankhdir@gmail.com
    📱 Phone: +964 751 537 9107 | +964 774 010 9001
 
