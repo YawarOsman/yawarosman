@@ -21,8 +21,6 @@
 💼 Morina Company: Software Developer & IT Manager, specializing in team leadership and project management.
 
 
-## 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarosman.com/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/yawarosman.pdf?alt=media&token=acc7d3a9-9443-4e0d-99d1-58a5d53ece29)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-osman-68530b203)
