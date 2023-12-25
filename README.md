@@ -4,22 +4,21 @@ About Me
 
 👨‍💻 I'm Yawar, a versatile full-stack Flutter and web developer with a knack for creating robust mobile, web, and desktop applications. With a Bachelor's in Computer Science and extensive experience in Dart, Java, and JavaScript, I bring innovative solutions to the tech world.
 
-
-   🎓 Education: Computer Science, University of Sulaimani
-   📧 Email: yawarosmankhdir@gmail.com
-   📱 Phone: +964 751 537 9107 | +964 774 010 9001
+🎓 Education: Computer Science, University of Sulaimani
+📧 Email: yawarosmankhdir@gmail.com
+📱 Phone: +964 751 537 9107 | +964 774 010 9001
 
 Skills
 
-   🚀 Flutter & Dart: Expert in mobile/web/desktop app development.
-   🔧 Back End & UI/UX: Proficient in Dart Frog, Figma design.
-   🛠️ Programming: Java, Python, HTML/CSS, JavaScript, SQL, Git.
-   ☁️ Cloud Tech: AWS, Google Cloud, Firebase.
+🚀 Flutter & Dart: Expert in mobile/web/desktop app development.
+🔧 Back End & UI/UX: Proficient in Dart Frog, Figma design.
+🛠️ Programming: Java, Python, HTML/CSS, JavaScript, SQL, Git.
+☁️ Cloud Tech: AWS, Google Cloud, Firebase.
 
 Experience
 
-   👨‍🚀 Freelance Developer: Diverse project experience, emphasizing problem-solving and adaptability.
-   💼 Morina Company: Software Developer & IT Manager, specializing in team leadership and project management.
+👨‍🚀 Freelance Developer: Diverse project experience, emphasizing problem-solving and adaptability.
+💼 Morina Company: Software Developer & IT Manager, specializing in team leadership and project management.
 
 
 ## 🔗 Links
