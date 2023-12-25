@@ -21,6 +21,7 @@ Experience
 👨‍🚀 Freelance Developer: Diverse project experience, emphasizing problem-solving and adaptability.
 💼 Morina Company: Software Developer & IT Manager, specializing in team leadership and project management.
 
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarosman.com/)
