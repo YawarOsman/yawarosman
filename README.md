@@ -4,8 +4,10 @@ About Me
 
 👨‍💻 I'm Yawar, a versatile full-stack Flutter and web developer with a knack for creating robust mobile, web, and desktop applications. With a Bachelor's in Computer Science and extensive experience in Dart, Java, and JavaScript, I bring innovative solutions to the tech world.
 
-🎓 Education: Computer Science, University of Sulaimani\n
+🎓 Education: Computer Science, University of Sulaimani
+
 📧 Email: yawarosmankhdir@gmail.com
+
 📱 Phone: +964 751 537 9107 | +964 774 010 9001
 
 Skills
