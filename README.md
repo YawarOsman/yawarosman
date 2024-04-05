@@ -10,15 +10,17 @@
 
 ### Skills
 
-🚀 Flutter & Dart: Expert in mobile/web/desktop app development.                                                  
-🔧 Back End & UI/UX: Proficient in Dart Frog, Figma design.                                              
-🛠️ Programming: Java, Python, HTML/CSS, JavaScript, SQL, Git.                                    
-☁️ Cloud Tech: AWS, Google Cloud, Firebase.                                    
+🚀 Flutter & Dart: Expert in mobile/web/desktop app development.
+🖼️ UI/UX: Figma design.
+🔧 Back End: Proficient in Dart Frog and Shelf.
+🖥️ Front End: Flutetr, React, Next.js.
+🛠️ Programming: Java, Dart, Python, HTML/CSS, JavaScript, SQL, Git.                                    
+☁️ Cloud Tech: AWS, Google Cloud, Firebase, Supabase, Amplify.                              
 
 ### Experience
 
 👨‍🚀 Freelance Developer: Diverse project experience, emphasizing problem-solving and adaptability.                                        
-💼 Morina Company: Software Developer & IT Manager, specializing in team leadership and project management.
+💼 Morina Company: Software Developer & Project Manager, specializing in team leadership.
 
 ## 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarosman.com/)
