@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I'm Yawar, a versatile front-end and Flutter developer with a knack for creating robust mobile, web, and desktop applications. With a Bachelor's in Computer Science and extensive experience in Dart, Java, and JavaScript, I bring innovative solutions to the tech world.
+👨‍💻 I'm Yawar, a versatile front-end and Senior Flutter developer with a knack for creating robust mobile, web, and desktop applications. With a Bachelor's in Computer Science and extensive experience in Dart, Java, and JavaScript, I bring innovative solutions to the tech world.
 
 🎓 Education: Bachelor in Computer Science, University of Sulaimani                                                        
 📧 Email: yawarosmankhdir@gmail.com                                                              
@@ -10,10 +10,10 @@
 
 ### Skills
 
-🚀 Flutter & Dart: Expert in mobile/web/desktop app development.                                    
-🖼️ UI/UX: Figma design.                                                                        
+🚀 Flutter & Dart: Expert in mobile, web, desktop app development.                                    
+🖼️ UI/UX: Figma & Flutter Flow design.                                                                        
 🔧 Back End: Proficient in Dart Frog and Shelf.                                    
-🖥️ Front End: Flutter, React.                                                                        
+🖥️ Front End: Flutter, React, Java.                                                                        
 🛠️ Programming: Java, Dart, Python, HTML/CSS, JavaScript, SQL, Git.                                    
 ☁️ Cloud Tech: AWS, Google Cloud, Firebase, Supabase, Amplify.                              
 
