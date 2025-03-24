@@ -33,7 +33,7 @@
 ## 🌐 Connect with Me
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarosman.com/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsman.pdf?alt=media&token=73b1b21f-af49-4a29-a043-71ed828abdb4)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsman.pdf?alt=media&token=73b1b21f-af49-4a29-a043-71ed828abdb4](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsman(CV).pdf?alt=media&token=bfed68d6-623e-4b09-9bee-0806ea2a9f6b))
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-osman-68530b203)
 
 ---
