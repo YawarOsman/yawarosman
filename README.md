@@ -33,7 +33,7 @@
 ## 🌐 Connect with Me
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarothman.com/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsman(CV).pdf?alt=media&token=bfed68d6-623e-4b09-9bee-0806ea2a9f6b)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsmanKhdir-CV.pdf?alt=media&token=bd12e2c6-3e22-4bf3-81e0-b09d281e9130)
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-othman-68530b203)
 
 ---
