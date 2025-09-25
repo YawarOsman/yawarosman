@@ -4,10 +4,10 @@
 
 ## About Me
 
-👋 Hi there! I'm **Yawar Osman Khdir**, a **Senior Flutter Developer** with a strong focus on creating high-quality mobile, web, and desktop applications. With a Bachelor's degree in Computer Science and over five years of experience, I specialize in Dart, Java, and JavaScript, bringing innovative solutions to the tech world.
+👋 Hi there! I'm **Yawar Othman Khdir**, a **Senior Flutter Developer** with a strong focus on creating high-quality mobile, web, and desktop applications. With a Bachelor's degree in Computer Science and over five years of experience, I specialize in Dart, Java, and JavaScript, bringing innovative solutions to the tech world.
 
 - 🎓 **Education**: Bachelor of Science in Computer Science, University of Sulaimani  
-- 📧 **Email**: [contact@yawarosman.com](mailto:contact@yawarosman.com)  
+- 📧 **Email**: [contact@yawarothman.com](mailto:contact@yawarothman.com)  
 - 📱 **Phone**: +964 751 537 9107 | +964 774 010 9001  
 
 ---
@@ -32,9 +32,9 @@
 
 ## 🌐 Connect with Me
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarosman.com/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/CV%20Yawar%20Khdir.pdf?alt=media&token=5acd63a4-f6f6-40d3-8679-4356f3a95c2c)
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-osman-68530b203)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarothman.com/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/CV%20Yawar%20Khdir.pdf?alt=media&token=5acd63a4-f6f6-40d3-8679-4356f3a95c2c](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsmanKhdir-CV.pdf?alt=media&token=bd12e2c6-3e22-4bf3-81e0-b09d281e9130))
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-othman-68530b203)
 
 ---
 
