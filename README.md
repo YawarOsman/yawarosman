@@ -8,7 +8,7 @@
 
 - 🎓 **Education**: Bachelor of Science in Computer Science, University of Sulaimani  
 - 📧 **Email**: [contact@yawarothman.com](mailto:contact@yawarothman.com)  
-- 📱 **Phone**: +964 751 537 9107 | +964 774 010 9001  
+- 📱 **Phone**: +964 774 010 9001  
 
 ---
 
