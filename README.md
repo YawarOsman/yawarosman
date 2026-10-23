@@ -1,41 +1,32 @@
-# 🌟 Welcome to My Profile
+# Yawar Agha
 
----
+Software engineer based in Jena, Germany. For the past five years I've been building mobile apps, mostly in Flutter, and I'm comfortable owning a project from database design to the store release.
 
-## About Me
+My latest project was HealthyU, a subscription app for two supplement brands that runs on iOS, Android and as an Alipay+ mini app. Before that I led Flutter teams and worked as a project manager.
 
-👋 Hi there! I'm **Yawar Othman Khdir**, a **Senior Flutter Developer** with a strong focus on creating high-quality mobile, web, and desktop applications. With a Bachelor's degree in Computer Science and over five years of experience, I specialize in Dart, Java, and JavaScript, bringing innovative solutions to the tech world.
+## What I work with
 
-- 🎓 **Education**: Bachelor of Science in Computer Science, University of Sulaimani  
-- 📧 **Email**: [yawar.o.agha@gmail.com](mailto:yawar.o.agha@gmail.com)  
-- 📱 **Phone**: +964 774 010 9001  
+- **Mobile:** Flutter, Dart, Java, Kotlin. Provider, Bloc and Riverpod for state, in-app payments, App Store and Play Store releases
+- **Web:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Nest.js, Express, REST, GraphQL, SQL and NoSQL, Firebase (Auth, Firestore, FCM)
+- **Tools:** Git, Docker, Nginx, Linux, CI/CD, Figma
 
----
+## Where I've worked
 
-## 🔥 Skills
+- **HealthyU** (Sep 2025 – Sep 2026): Senior mobile developer. Built the app end to end: onboarding, QR box linking, daily routines and reminders, progress photos, subscriptions and reorders with payments.
+- **Architech** (May 2024 – Aug 2025): Team lead and Flutter developer, part-time. Mentored junior developers and kept stakeholders in the loop.
+- **Morina** (Dec 2022 – Jan 2025): Joined as a Flutter developer and moved into project management after seven months.
+- **Freelance** (Apr 2021 – Dec 2022): Mobile apps for clients, in Java and Flutter.
 
-- **Flutter & Dart**: Expertise in mobile, web, and desktop app development
-- **UI/UX Design**: Skilled in Figma & Flutter Flow for seamless user interfaces
-- **Backend Development**: Proficient in Dart Frog and Shelf frameworks
-- **Frontend Development**: Experienced with Flutter, React, and Java
-- **Programming Languages**: Java, Dart, Python, HTML/CSS, JavaScript, SQL, Git
-- **Cloud Technologies**: AWS, Google Cloud, Firebase, Supabase, Amplify
+## Education and languages
 
----
+Bachelor's in Computer Science, University of Sulaimani (2023).
 
-## 💼 Professional Experience
+Kurdish (native), English (B2), German (A2, working toward B1).
 
-- **Freelance Developer**: Completed diverse projects, emphasizing problem-solving and adaptability.
-- **Morina Company**: Software Developer & Project Manager, specializing in team leadership and project management.
+## Contact
 
----
-
-## 🌐 Connect with Me
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yawarothman.com/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/yawarosman-8f2c8.appspot.com/o/YawarOsmanKhdir-CV.pdf?alt=media&token=bd12e2c6-3e22-4bf3-81e0-b09d281e9130)
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yawar-agha-68530b203)
-
----
-
-Thank you for visiting my profile! Let's connect and explore how we can innovate together.
+- Email: [yawar.o.agha@gmail.com](mailto:yawar.o.agha@gmail.com)
+- Website: [yawarothman.com](https://yawarothman.com)
+- LinkedIn: [yawar-agha](https://www.linkedin.com/in/yawar-agha-68530b203)
+- CV: [PDF](YOUR_NEW_CV_LINK)
